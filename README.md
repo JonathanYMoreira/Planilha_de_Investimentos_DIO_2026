@@ -97,16 +97,6 @@ Os percentuais foram **criados por mim como exemplo didático**. Não vêm de ge
 - Descrição de cada tipo de fundo na aba APOIO.
 - Validação de dados nos campos de entrada e comentários com as premissas.
 
-## Prints
-
-A mesma simulação em dois perfis:
-
-| Conservador | Arrojado |
-|---|---|
-| [Perfil conservador](prints/conservador.png) | [Perfil arrojado](prints/arrojado.png) |
-
-> Antes de publicar, salve os prints na pasta `prints/` do repositório com esses nomes.
-
 ## Como usar
 
 1. Abra `simulador_fiis.xlsx` no Excel.
